@@ -1,0 +1,7 @@
+Enter the amount: 1234
+100 rupee note(s): 12
+50 rupee note(s): 0
+10 rupee note(s): 3
+
+Enter the amount: c
+Invalid amount!
